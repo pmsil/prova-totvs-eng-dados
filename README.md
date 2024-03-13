@@ -47,8 +47,8 @@ incluir o código do produto e o nome do produto em uma coleção no MongoDB.
 b. Gerar um relatório CSV contendo o número de vendas e o número de compradores dos novos produto antes do
 registro ser feito.
 
+c. Ignorar produtos que já estão cadastrados, pois eles já são processados por outro pipeline de dados.
+
 O projeto utiliza Java (com Maven), Spark, MongoDB e foi criado na IDE IntelliJ.
 Para isso foi necessário configurar a conexão entre o Spark e o Java (no IntelliJ) e também a utilização de conectores
 para que o Spark se conecta-se no MongoDB (configurei o arquivo pom.xml para que buscasse as dependências).
-
-c. Ignorar produtos que já estão cadastrados, pois eles já são processados por outro pipeline de dados.

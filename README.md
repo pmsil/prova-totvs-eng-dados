@@ -3,7 +3,7 @@
 ## Este repositório contém três projetos desenvolvidos para resolver problemas específicos utilizando diferentes tecnologias e abordagens.
 ### OBS: Todos os projetos foram testados e estão com arquivos que permitem a execução dos testes.
 
-## Projeto 1: Pipeline com Apache Spark em Java
+## Projeto 1: Pipeline com Apache Spark em Java (Projeto: prova_TOTVS)
 
 1. Implemente em Java o seguinte pipeline usando Apache
 Spark:
@@ -21,7 +21,7 @@ lista de palavras.
 O projeto utiliza Java, Spark e foi criado na IDE IntelliJ.
 Para isso foi necessário configurar a conexão entre o Spark e o Java (no IntelliJ).
 
-## Projeto 2: Consulta MongoDB com JavaScript
+## Projeto 2: Consulta MongoDB com JavaScript (Projeto: consulta-javascript-mongoDB)
 
 Descrição do projeto 2.
 
@@ -35,7 +35,7 @@ No código é criada uma conexão no MongoDB e foi criada uma função que execu
 
 ## Projeto 3: Pipeline com Apache Spark para Gerenciamento de Vendas em Java
 
-Descrição do projeto 3.
+Descrição do projeto 3. (Projeto: pipeline_gerencia_produtos)
 
 Implemente em Java um pipeline utilizando Apache Spark para resolver o seguinte caso de uso: 
 Um departamento recebe informações de vendas de produtos através de um arquivo CSV contendo o código do produto, nome do produto,

@@ -1,0 +1,44 @@
+Itens que começam com 0: [maçã , laranja, banana, manga, maçã, laranja]
+Itens que começam com 1: [maçã , laranja da Terra, banana d'agua, morango, perâ, limão, maçã, maçã pera, pera pera, pera pera pera amarela, tangerina]
+Linhas que começam com 0: 6
+Linhas que começam com 1: 11
+
+Análises por linha começando com 1:
+Linha[1	maçã ]: 1 palavras na segunda coluna e 1 palavras únicas
+Palavras e suas ocorrências:
+maçã: 1 vezes
+Linha[1	laranja da Terra]: 3 palavras na segunda coluna e 3 palavras únicas
+Palavras e suas ocorrências:
+Terra: 1 vezes
+da: 1 vezes
+laranja: 1 vezes
+Linha[1	banana d'agua]: 2 palavras na segunda coluna e 2 palavras únicas
+Palavras e suas ocorrências:
+banana: 1 vezes
+d'agua: 1 vezes
+Linha[1	morango]: 1 palavras na segunda coluna e 1 palavras únicas
+Palavras e suas ocorrências:
+morango: 1 vezes
+Linha[1	perâ]: 1 palavras na segunda coluna e 1 palavras únicas
+Palavras e suas ocorrências:
+perâ: 1 vezes
+Linha[1	limão]: 1 palavras na segunda coluna e 1 palavras únicas
+Palavras e suas ocorrências:
+limão: 1 vezes
+Linha[1	maçã]: 1 palavras na segunda coluna e 1 palavras únicas
+Palavras e suas ocorrências:
+maçã: 1 vezes
+Linha[1	maçã pera]: 2 palavras na segunda coluna e 2 palavras únicas
+Palavras e suas ocorrências:
+maçã: 1 vezes
+pera: 1 vezes
+Linha[1	pera pera]: 2 palavras na segunda coluna e 1 palavras únicas
+Palavras e suas ocorrências:
+pera: 2 vezes
+Linha[1	pera pera pera amarela]: 4 palavras na segunda coluna e 2 palavras únicas
+Palavras e suas ocorrências:
+pera: 3 vezes
+amarela: 1 vezes
+Linha[1	tangerina]: 1 palavras na segunda coluna e 1 palavras únicas
+Palavras e suas ocorrências:
+tangerina: 1 vezes

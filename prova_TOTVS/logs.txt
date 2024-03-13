@@ -1,0 +1,18 @@
+0	maçã 
+1	maçã 
+0	laranja
+1	laranja da Terra
+0	banana
+1	banana d'agua
+1	morango
+0	manga
+1	perâ
+1	limão
+0	maçã
+0	laranja
+1	maçã
+1	maçã pera
+1	pera pera
+1	pera pera pera amarela
+3	pera pera pera amarela
+1	tangerina
